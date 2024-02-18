@@ -1,3 +1,7 @@
-Welcome to Lepuchin, A Older Version of Capuchin, Everything is still being tested, so Expect Bugs
+Welcome to Lepuchin, We added the Following:
+
+Moderator Menu for Admins
+Fixed Some Bugs
+Horror is Broken, We Know That, Dont Tell Us
 
 -Lepuchin Team
